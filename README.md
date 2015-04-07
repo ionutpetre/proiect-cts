@@ -1,2 +1,2 @@
 # proiect-cts
-Aplicatie java pentru a rula teste automate
+Aplicatie java pe care se vor executa teste automate.
